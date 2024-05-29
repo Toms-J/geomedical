@@ -7,7 +7,7 @@ import Button from '@mui/material/Button';
 import { CardActionArea } from '@mui/material';
 import '../medico-competente.png'
 
-export default function ActionAreaCard() {
+export default function ActionAreaCardRicerca() {
   return (
     <Card sx={{ maxWidth: 345 }}>
       <CardActionArea>
